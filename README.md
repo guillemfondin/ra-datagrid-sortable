@@ -2,6 +2,16 @@
 
 Drag'n'drop sortable datagrid for [react-admin](https://github.com/marmelab/react-admin) base on  [react-sortablejs](https://github.com/SortableJS/react-sortablejs)
 
+## Installation
+
+```shell
+npm install ra-datagrid-sortable
+
+// or
+
+yarn add ra-datagrid-sortable
+```
+
 ## Usage
 
 ```tsx

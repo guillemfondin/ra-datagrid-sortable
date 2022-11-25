@@ -1,0 +1,1 @@
+{"version":3,"file":"DatagridSortable.d.ts","sourceRoot":"","sources":["../../src/DatagridSortable.tsx"],"names":[],"mappings":";AAEA,OAAO,EAAY,aAAa,EAAE,MAAM,kBAAkB,CAAC;AAE3D,QAAA,MAAM,gBAAgB,UAAW,qBAAqB,gBAAuE,CAAA;AAE7H,MAAM,WAAW,qBAAsB,SAAQ,aAAa;IAC1D,SAAS,EAAE,MAAM,CAAC;CACnB;AAED,eAAe,gBAAgB,CAAC"}
