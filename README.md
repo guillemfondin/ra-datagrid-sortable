@@ -16,7 +16,7 @@ yarn add ra-datagrid-sortable
 
 ```tsx
 import React, { FC } from 'react';
-import { BooleanField, List } from "react-admin";
+import { TextField, List } from "react-admin";
 import { DatagridSortable } from "ra-datagrid-sortable";
 
 const MyResourceList = (): FC => {
