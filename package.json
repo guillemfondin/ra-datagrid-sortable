@@ -1,6 +1,6 @@
 {
   "name": "ra-datagrid-sortable",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Drag'n'drop sortable datagrid for react-admin",
   "files": [
     "*.md",
@@ -10,7 +10,14 @@
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
   "types": "dist/cjs/index.d.ts",
-  "repository": "github.com:guillemfondin/ra-datagrid-sortable.git",
+  "homepage": "https://github.com/guillemfondin/ra-datagrid-sortable",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/guillemfondin/ra-datagrid-sortable.git"
+  },
+  "bugs": {
+    "url": "https://github.com/guillemfondin/ra-datagrid-sortable/issues"
+  },
   "author": "Guillem Fondin <guillem.fondin@hotmail.fr>",
   "license": "MIT",
   "private": false,
